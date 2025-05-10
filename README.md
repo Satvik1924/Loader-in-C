@@ -68,8 +68,6 @@ This project helps you understand:
 
 This project is for educational use only. You may modify and use it freely for academic purposes.
 
----
 
 Made with ❤️ by Satvik – IIITD
 
-```
